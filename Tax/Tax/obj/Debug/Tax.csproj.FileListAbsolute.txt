@@ -1,0 +1,10 @@
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.csproj.AssemblyReference.cache
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.Properties.Resources.resources
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.csproj.GenerateResource.cache
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.csproj.CoreCompileInputs.cache
+D:\visualC\Homework\Tax\Tax\bin\Debug\Tax.exe.config
+D:\visualC\Homework\Tax\Tax\bin\Debug\Tax.exe
+D:\visualC\Homework\Tax\Tax\bin\Debug\Tax.pdb
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.exe
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.pdb
+D:\visualC\Homework\Tax\Tax\obj\Debug\Tax.TAX_form.resources
